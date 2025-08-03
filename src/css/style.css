@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #aeb6bed7;
+  background: #fff;
   padding: 20px;
 }
 
@@ -18,7 +18,7 @@ body {
   top: 0;
   left: 5px;
   width: 100%;
-  background-color: #aeb6beb5;
+  background-color: #fff;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
   /* forte, escura e difusa */
   border-radius: 8px;
@@ -412,4 +412,5 @@ p {
   max-width: 300px;
   max-height: 250px;
   object-fit: cover;
+
 }
